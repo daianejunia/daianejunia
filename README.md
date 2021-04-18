@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn JavaScript and Python
 - 🌱 I’m currently learning Pythion from Udemy
 - 💞️ I’m looking to collaborate on Python and Javascript
-- 📫 How to reach me ...
+- 📫 How to reach me on my linkedin linkedin.com/in/daianejunia
 
 <!---
 daianejunia/daianejunia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
